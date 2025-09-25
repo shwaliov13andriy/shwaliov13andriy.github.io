@@ -1,0 +1,55 @@
+div ul li:first-child {
+    font-weight: bold;
+}
+nav ul li:first-child{
+    font-weight: bold;
+}
+section ul li:first-child{
+ font-weight:bold;
+}
+footer a{
+    color:red;
+}
+li a[href="http://notrealsite.ua"] {
+  color: red;
+}
+#input2{
+    color:gray;
+}
+div p{
+    font-weight: 550;
+    font-size: 16px;
+}
+a[href="https://example.com"]{
+    color:green;
+}
+input[type="text"]{
+    border: 1px solid indigo;
+}
+li:first-child{
+    font-size:24px;
+}
+li:last-child{
+    font-size:24px;
+}
+input[type="checkbox"]{
+    background: skyblue;
+}
+li a{
+    text-decoration:underline;
+}
+li:nth-child(even) {
+  font-weight: bold;
+}
+input[type="text"]:not(:disabled) {
+  background: gray;
+}
+p:first-child{
+    font-size:24px;
+}
+.container ul li:last-child{
+    text-decoration: line-through;
+}
+p::first-letter {
+  font-size: 36px;
+}
