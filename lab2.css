@@ -33,7 +33,7 @@ li:last-child{
     font-size:24px;
 }
 input[type="checkbox"]{
-    background: skyblue;
+    accent-color: skyblue;
 }
 li a{
     text-decoration:underline;
